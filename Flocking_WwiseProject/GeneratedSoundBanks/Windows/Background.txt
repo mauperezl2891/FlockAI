@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2352987237	Play_New_Music_Playlist_Container			\Default Work Unit\Play_New_Music_Playlist_Container	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	873670193	Underwater	C:\Users\mauri\Desktop\Unity\3D\Particles\Flocking\Flocking\Flocking_WwiseProject\.cache\Windows\SFX\Underwater_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\New Music Playlist Container\Underwater\Underwater		6350496
+
